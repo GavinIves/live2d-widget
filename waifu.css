@@ -28,13 +28,13 @@
 	line-height: 0;
 	margin-bottom: -10px;
 	position: fixed;
-	transform: translateY(0px);
+	transform: translateY(4px);
 	transition: transform .3s ease-in-out, bottom 3s ease-in-out;
 	z-index: 1;
 }
 
 #waifu:hover {
-	transform: translateY(0);
+	transform: translateY(4px);
 }
 
 #waifu-tips {
